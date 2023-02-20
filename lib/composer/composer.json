@@ -1,0 +1,16 @@
+{
+    "name": "wef/calendar",
+    "description": "Agendamento Online",
+    "authors": [
+        {
+            "name": "Edvan da Luz"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "Classes\\": "../../class",
+            "Models\\": "../../model"
+        }
+    }
+}
